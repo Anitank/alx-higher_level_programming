@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 number = 0
 while number <= 89:
     if number % 10 == 0:
